@@ -18,7 +18,7 @@
 │
 ├─◈ <a href="https://t.me/isomura_kenji">Telegram</a>
 │─◈ <a href="mailto:isa-erk@ya.ru">Email</a>
-
+|
 └───────────────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├───────▰▰▰
