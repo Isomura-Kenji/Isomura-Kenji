@@ -25,7 +25,7 @@
 │
 ├─◈ <a href="https://github.com/Isomura-Kenji/Termometer">Room Thermometer (HWD)</a>
 │─◈ <a href="https://github.com/Isomura-Kenji/Distortion_Pedal">Distortion (HWD)</a>
-|─◈ <a href="https://github.com/Isomura-Kenji/Arcanoid">Arcanoid (SWD) (in work)</a>
+|─◈ <a href="https://github.com/Isomura-Kenji/Hygrometer">Hygrometer (in work)</a>
 |
 └───────────────────────────────▰▰▰
 
