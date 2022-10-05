@@ -23,10 +23,9 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/Isomura-Kenji/Termometer">Room Thermometer</a>
-│─◈ <a href="https://github.com/Isomura-Kenji/Distortion_Pedal">Distortion</a>
-|─◈ <a href="https://github.com/Isomura-Kenji/Arcanoid">Arcanoid (in work)</a>
-|─◈ <a href="https://github.com/Isomura-Kenji/Colormusic_Opamp">Colormusic Opamp (in work)</a>
+├─◈ <a href="https://github.com/Isomura-Kenji/Termometer">Room Thermometer (HWD)</a>
+│─◈ <a href="https://github.com/Isomura-Kenji/Distortion_Pedal (HWD)">Distortion</a>
+|─◈ <a href="https://github.com/Isomura-Kenji/Arcanoid">Arcanoid (SWD)(in work)</a>
 |
 └───────────────────────────────▰▰▰
 
