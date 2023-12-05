@@ -26,6 +26,8 @@
 ├─◈ <a href="https://github.com/Isomura-Kenji/Termometer">Room Thermometer (HWD)</a>
 │─◈ <a href="https://github.com/Isomura-Kenji/Distortion_Pedal">Distortion (HWD)</a>
 |─◈ <a href="https://github.com/Isomura-Kenji/Hygrometer">Hygrometer (in work)</a>
+|─◈ <a href="https://github.com/Isomura-Kenji/FM-Radio-SHUM">FM Radio Reciever</a>
+|─◈ <a href="https://github.com/Isomura-Kenji/Colormusic-OpAmp">Colormusic OpAmp</a>
 |
 └───────────────────────────────▰▰▰
 
